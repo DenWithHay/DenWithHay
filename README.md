@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hayden
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning more about cybersecurity
+- 👀 I’m interested in databases
+- 🌱 I’m currently learning more about information technology
 - 📫 How to reach me hayden.m.hilliard@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a twin
